@@ -1,4 +1,4 @@
-# Handwritten Digit Classification — CS6140 Machine Learning (HW2, Q7)
+# Handwritten Digit Classification
 
 Multi-class classification and multi-label property prediction on 8×8 handwritten digit images using logistic regression.
 
