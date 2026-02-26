@@ -17,10 +17,10 @@ This project implements three tasks on the [UCI Handwritten Digits](https://arch
 **Training accuracy:** 100.00% | **Test accuracy:** 97.78%
 
 #### Coefficient Distribution — Class 0 vs Class 7
-![Coefficient Distribution](Part_1_1.png)
+![Coefficient Distribution](Part_1.1.png)
 
 #### Per-Class Test Accuracy
-![Per-Class Accuracy](Part-1_2.png)
+![Per-Class Accuracy](Part-1.2.png)
 
 #### Sample Test Images with Predictions
 ![Sample Images](Part_1_b_iv.png)
