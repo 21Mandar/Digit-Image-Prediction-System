@@ -94,4 +94,4 @@ The script outputs accuracy metrics to the console and saves three plots:
 
 ## Author
 
-Mandar Bangalore Arun — Northeastern University, CS6140 Machine Learning (Spring 2026)
+Mandar Bangalore Arun 
