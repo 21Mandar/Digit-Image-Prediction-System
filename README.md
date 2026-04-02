@@ -94,4 +94,6 @@ The script outputs accuracy metrics to the console and saves three plots:
 
 ## Author
 
-Mandar Bangalore Arun 
+Mandar Bangalore Arun |
+LinkedIn: https://www.linkedin.com/in/mandar-arun/ |
+GitHub: https://github.com/21Mandar
